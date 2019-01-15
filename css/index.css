@@ -316,7 +316,16 @@ ul {
     footer {
         font-size: 1.6rem;
     }
+    /* SERVICES PAGE */
+    .services-info-img {display: none;}
+    section.last-content div.text-content {width: 100%}
+    .card{
+        width: 96%;
+        margin: 2% auto;
+    }
+    header a {order:-1;}
 }
+
 /* MOBILE PHONE */
 @media (max-width:500px) {
     
